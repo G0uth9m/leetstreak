@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/G0uth9m/leetstreak/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/G0uth9m/leetstreak/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/G0uth9m/leetstreak/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/G0uth9m/leetstreak/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/G0uth9m/leetstreak/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/G0uth9m/leetstreak/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
