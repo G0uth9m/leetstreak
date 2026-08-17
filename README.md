@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0004-median-of-two-sorted-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/G0uth9m/leetstreak/tree/master/0011-container-with-most-water) |
+| [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/G0uth9m/leetstreak/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/G0uth9m/leetstreak/tree/master/0009-palindrome-number) |
+| [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
