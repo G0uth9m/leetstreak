@@ -13,7 +13,7 @@ class Solution(object):
             else:
                 arr2.append(nums[i])
                 k+=1
-        r=arr1+arr2
-        return r
+                
+        return arr1+arr2
         
         
