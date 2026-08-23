@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/G0uth9m/leetstreak/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/G0uth9m/leetstreak/tree/master/0012-integer-to-roman) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/G0uth9m/leetstreak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
