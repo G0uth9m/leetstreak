@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/G0uth9m/leetstreak/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/G0uth9m/leetstreak/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/G0uth9m/leetstreak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
