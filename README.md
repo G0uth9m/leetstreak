@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/G0uth9m/leetstreak/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/G0uth9m/leetstreak/tree/master/1929-concatenation-of-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/G0uth9m/leetstreak/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/G0uth9m/leetstreak/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/G0uth9m/leetstreak/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/G0uth9m/leetstreak/tree/master/1143-longest-common-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
