@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 ## Counting
@@ -159,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
