@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/G0uth9m/leetstreak/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/G0uth9m/leetstreak/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/G0uth9m/leetstreak/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/G0uth9m/leetstreak/tree/master/1025-divisor-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/G0uth9m/leetstreak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/G0uth9m/leetstreak/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/G0uth9m/leetstreak/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/G0uth9m/leetstreak/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/G0uth9m/leetstreak/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/G0uth9m/leetstreak/tree/master/1143-longest-common-subsequence) |
 ## Trie
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/G0uth9m/leetstreak/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/G0uth9m/leetstreak/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/G0uth9m/leetstreak/tree/master/3069-distribute-elements-into-two-arrays-i) |
