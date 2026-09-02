@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/G0uth9m/leetstreak/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/G0uth9m/leetstreak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/G0uth9m/leetstreak/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0145-binary-tree-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/G0uth9m/leetstreak/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
