@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/G0uth9m/leetstreak/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/G0uth9m/leetstreak/tree/master/1323-maximum-69-number) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/G0uth9m/leetstreak/tree/master/1025-divisor-game) |
+| [1323-maximum-69-number](https://github.com/G0uth9m/leetstreak/tree/master/1323-maximum-69-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/G0uth9m/leetstreak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/G0uth9m/leetstreak/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
