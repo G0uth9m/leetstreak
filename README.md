@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/G0uth9m/leetstreak/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/G0uth9m/leetstreak/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 ## Counting
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/G0uth9m/leetstreak/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/G0uth9m/leetstreak/tree/master/0875-koko-eating-bananas) |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/G0uth9m/leetstreak/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/G0uth9m/leetstreak/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/G0uth9m/leetstreak/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/G0uth9m/leetstreak/tree/master/0412-fizz-buzz) |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/G0uth9m/leetstreak/tree/master/0342-power-of-four) |
 ## Counting Sort
 |  |
