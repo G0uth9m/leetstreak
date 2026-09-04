@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/G0uth9m/leetstreak/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/G0uth9m/leetstreak/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/G0uth9m/leetstreak/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/G0uth9m/leetstreak/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/G0uth9m/leetstreak/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/G0uth9m/leetstreak/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/G0uth9m/leetstreak/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/G0uth9m/leetstreak/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/G0uth9m/leetstreak/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/G0uth9m/leetstreak/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
