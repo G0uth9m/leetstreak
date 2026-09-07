@@ -13,18 +13,18 @@ class Solution {
         if(n==0){
             return head;
         }
-        ArrayList<ListNode> hc=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            hc.add(temp);
-            temp=temp.next;  
+        ListNode temp=new ListNode(0);
+        temp.next=head;
+        ListNode front=temp;
+        ListNode back=temp;
+        for(int i=0;i<n;i++){
+            front=front.next;
         }
-        int loc=hc.size()-n;
-        if(loc==0){
-            return head.next;
+        while(front.next!=null){
+            front=front.next;
+            back=back.next;
         }
-        hc.get(loc-1).next=hc.get(loc).next;
-        return head;
-
+        back.next=back.next.next;
+        return temp.next;
     }
 }
