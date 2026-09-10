@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/G0uth9m/leetstreak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/G0uth9m/leetstreak/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/G0uth9m/leetstreak/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/G0uth9m/leetstreak/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/G0uth9m/leetstreak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/G0uth9m/leetstreak/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/G0uth9m/leetstreak/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/G0uth9m/leetstreak/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/G0uth9m/leetstreak/tree/master/0583-delete-operation-for-two-strings) |
