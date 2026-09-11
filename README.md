@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/G0uth9m/leetstreak/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/G0uth9m/leetstreak/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/G0uth9m/leetstreak/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/G0uth9m/leetstreak/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/G0uth9m/leetstreak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/G0uth9m/leetstreak/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
