@@ -1,33 +1,42 @@
 class Solution {
     public String convert(String s, int numRows) {
-        int i=0;
-        int j=0;
-        int ind=0;
-        StringBuilder res=new StringBuilder();
-        if(numRows<2 || numRows>s.length()) return s;
-        char [][] m=new char [numRows][s.length()];
-        while(ind<s.length()){
-            while(i<numRows && ind<s.length()){
-                m[i][j]=s.charAt(ind);
-                ind++;
-                i++;
+
+        if (numRows == 1 || numRows >= s.length()) {
+            return s;
+        }
+
+        StringBuilder[] rows = new StringBuilder[numRows];
+
+        for (int i = 0; i < numRows; i++) {
+            rows[i] = new StringBuilder();
+        }
+
+        int row = 0;
+        boolean goingDown = true;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            rows[row].append(s.charAt(i));
+
+            if (row == 0) {
+                goingDown = true;
+            } else if (row == numRows - 1) {
+                goingDown = false;
             }
-            i=numRows-2;
-            j++;
-            while(i>0 && ind<s.length()){
-                m[i][j]=s.charAt(ind);
-                ind++;
-                i--;
-                j++;
+
+            if (goingDown) {
+                row++;
+            } else {
+                row--;
             }
         }
-        for(i=0;i<numRows;i++){
-            for(j=0;j<s.length();j++){
-                if(m[i][j]!='\0'){
-                    res.append(m[i][j]);
-                }
-            }
+
+        StringBuilder result = new StringBuilder();
+
+        for (int i = 0; i < numRows; i++) {
+            result.append(rows[i]);
         }
-        return res.toString();
+
+        return result.toString();
     }
 }
