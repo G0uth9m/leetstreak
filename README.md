@@ -228,12 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/G0uth9m/leetstreak/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/G0uth9m/leetstreak/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0145-binary-tree-postorder-traversal) |
 | [0841-keys-and-rooms](https://github.com/G0uth9m/leetstreak/tree/master/0841-keys-and-rooms) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/G0uth9m/leetstreak/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0145-binary-tree-postorder-traversal) |
 ## Number Theory
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/G0uth9m/leetstreak/tree/master/0100-same-tree) |
 | [0841-keys-and-rooms](https://github.com/G0uth9m/leetstreak/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
