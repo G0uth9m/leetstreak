@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/G0uth9m/leetstreak/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/G0uth9m/leetstreak/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/G0uth9m/leetstreak/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/G0uth9m/leetstreak/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G0uth9m/leetstreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/G0uth9m/leetstreak/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/G0uth9m/leetstreak/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/G0uth9m/leetstreak/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/G0uth9m/leetstreak/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
