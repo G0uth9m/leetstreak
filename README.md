@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G0uth9m/leetstreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/G0uth9m/leetstreak/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/G0uth9m/leetstreak/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/G0uth9m/leetstreak/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/G0uth9m/leetstreak/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/G0uth9m/leetstreak/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/G0uth9m/leetstreak/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/G0uth9m/leetstreak/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/G0uth9m/leetstreak/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
