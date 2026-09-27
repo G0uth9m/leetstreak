@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/G0uth9m/leetstreak/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/G0uth9m/leetstreak/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G0uth9m/leetstreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/G0uth9m/leetstreak/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/G0uth9m/leetstreak/tree/master/0209-minimum-size-subarray-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/G0uth9m/leetstreak/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/G0uth9m/leetstreak/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/G0uth9m/leetstreak/tree/master/1323-maximum-69-number) |
 ## Math
