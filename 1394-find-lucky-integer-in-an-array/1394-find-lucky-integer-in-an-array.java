@@ -1,7 +1,7 @@
 class Solution {
     public int findLucky(int[] arr) {
         int[] freq=new int[501];
-        Arrays.fill(freq,0);
+        //Arrays.fill(freq,0);
         int max=0;
         for(int i:arr){
             freq[i]+=1;
