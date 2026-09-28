@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/G0uth9m/leetstreak/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/G0uth9m/leetstreak/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/G0uth9m/leetstreak/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/G0uth9m/leetstreak/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G0uth9m/leetstreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/G0uth9m/leetstreak/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/G0uth9m/leetstreak/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/G0uth9m/leetstreak/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/G0uth9m/leetstreak/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/G0uth9m/leetstreak/tree/master/0205-isomorphic-strings) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/G0uth9m/leetstreak/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/G0uth9m/leetstreak/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/G0uth9m/leetstreak/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/G0uth9m/leetstreak/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/G0uth9m/leetstreak/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/G0uth9m/leetstreak/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/G0uth9m/leetstreak/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/G0uth9m/leetstreak/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/G0uth9m/leetstreak/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/G0uth9m/leetstreak/tree/master/0112-path-sum) |
