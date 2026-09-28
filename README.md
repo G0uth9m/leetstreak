@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/G0uth9m/leetstreak/tree/master/0875-koko-eating-bananas) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/G0uth9m/leetstreak/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/G0uth9m/leetstreak/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/G0uth9m/leetstreak/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/G0uth9m/leetstreak/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/G0uth9m/leetstreak/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/G0uth9m/leetstreak/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
