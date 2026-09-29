@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/G0uth9m/leetstreak/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/G0uth9m/leetstreak/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/G0uth9m/leetstreak/tree/master/0342-power-of-four) |
 ## Counting Sort
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/G0uth9m/leetstreak/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G0uth9m/leetstreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/G0uth9m/leetstreak/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/G0uth9m/leetstreak/tree/master/0583-delete-operation-for-two-strings) |
 | [1025-divisor-game](https://github.com/G0uth9m/leetstreak/tree/master/1025-divisor-game) |
