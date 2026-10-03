@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/G0uth9m/leetstreak/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/G0uth9m/leetstreak/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/G0uth9m/leetstreak/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/G0uth9m/leetstreak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/G0uth9m/leetstreak/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/G0uth9m/leetstreak/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/G0uth9m/leetstreak/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
