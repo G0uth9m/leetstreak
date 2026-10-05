@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/G0uth9m/leetstreak/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/G0uth9m/leetstreak/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/G0uth9m/leetstreak/tree/master/1323-maximum-69-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/G0uth9m/leetstreak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/G0uth9m/leetstreak/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/G0uth9m/leetstreak/tree/master/0583-delete-operation-for-two-strings) |
 | [1025-divisor-game](https://github.com/G0uth9m/leetstreak/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/G0uth9m/leetstreak/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
