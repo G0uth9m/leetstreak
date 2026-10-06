@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/G0uth9m/leetstreak/tree/master/0875-koko-eating-bananas) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/G0uth9m/leetstreak/tree/master/1929-concatenation-of-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/G0uth9m/leetstreak/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/G0uth9m/leetstreak/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/G0uth9m/leetstreak/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/G0uth9m/leetstreak/tree/master/1143-longest-common-subsequence) |
