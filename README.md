@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/G0uth9m/leetstreak/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/G0uth9m/leetstreak/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/G0uth9m/leetstreak/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/G0uth9m/leetstreak/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/G0uth9m/leetstreak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/G0uth9m/leetstreak/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/G0uth9m/leetstreak/tree/master/0561-array-partition) |
 ## Counting
 |  |
