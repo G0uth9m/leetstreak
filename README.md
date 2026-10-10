@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/G0uth9m/leetstreak/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/G0uth9m/leetstreak/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/G0uth9m/leetstreak/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/G0uth9m/leetstreak/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/G0uth9m/leetstreak/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/G0uth9m/leetstreak/tree/master/0205-isomorphic-strings) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/G0uth9m/leetstreak/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/G0uth9m/leetstreak/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/G0uth9m/leetstreak/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/G0uth9m/leetstreak/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G0uth9m/leetstreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/G0uth9m/leetstreak/tree/master/0198-house-robber) |
