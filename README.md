@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/G0uth9m/leetstreak/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/G0uth9m/leetstreak/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/G0uth9m/leetstreak/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/G0uth9m/leetstreak/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/G0uth9m/leetstreak/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/G0uth9m/leetstreak/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/G0uth9m/leetstreak/tree/master/0412-fizz-buzz) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G0uth9m/leetstreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/G0uth9m/leetstreak/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/G0uth9m/leetstreak/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/G0uth9m/leetstreak/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/G0uth9m/leetstreak/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/G0uth9m/leetstreak/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/0509-fibonacci-number) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/G0uth9m/leetstreak/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/G0uth9m/leetstreak/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/G0uth9m/leetstreak/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/G0uth9m/leetstreak/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/G0uth9m/leetstreak/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
@@ -400,9 +403,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/G0uth9m/leetstreak/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/G0uth9m/leetstreak/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/G0uth9m/leetstreak/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/G0uth9m/leetstreak/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
