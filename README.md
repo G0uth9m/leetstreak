@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/G0uth9m/leetstreak/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/G0uth9m/leetstreak/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/G0uth9m/leetstreak/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/G0uth9m/leetstreak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/G0uth9m/leetstreak/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/G0uth9m/leetstreak/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/G0uth9m/leetstreak/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/G0uth9m/leetstreak/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/G0uth9m/leetstreak/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/G0uth9m/leetstreak/tree/master/1323-maximum-69-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/G0uth9m/leetstreak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/G0uth9m/leetstreak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/G0uth9m/leetstreak/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/G0uth9m/leetstreak/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
